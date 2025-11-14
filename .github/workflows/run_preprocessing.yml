@@ -41,7 +41,7 @@ jobs:
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
           # PENTING: Pastikan path file .csv ini sama persis
-          git add "namadataset_preprocessing/titanic_preprocessing.csv"
+          git add "titanic_preprocessing.csv"
 
           # Commit hanya jika ada perubahan
           git diff --staged --quiet || git commit -m "Auto: Update processed dataset"
