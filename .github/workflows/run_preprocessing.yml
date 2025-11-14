@@ -32,7 +32,7 @@ jobs:
       # 4. Jalankan script automate-mu
       - name: Run preprocessing script
         # PENTING: Pastikan nama file .py ini sama persis
-        run: python "preprocessing/automate-Diva Anggreini Harahap.py"
+        run: python "preprocessing/automate-Diva_Anggreini_Harahap.py"
 
       # 5. Commit & Push file .csv yang baru dibuat
       - name: Commit and push processed data
