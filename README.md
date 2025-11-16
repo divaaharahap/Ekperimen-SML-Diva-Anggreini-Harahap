@@ -1,1 +1,0 @@
-# Ekperimen-SML-Diva-Anggreini-Harahap
